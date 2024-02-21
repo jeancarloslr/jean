@@ -1,5 +1,5 @@
 # Hey, I'm Jean
-<img src="gif-ippo" min-width="350px" max-width="350px" width="350px" align="right" >
+<img src="gif-ippo.gif" min-width="350px" max-width="350px" width="350px" align="right" autoplay>
 
 <div justify-content="space-between"> 
 <a href="https://github.com/kaua-pt">
